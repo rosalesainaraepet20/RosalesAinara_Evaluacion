@@ -1,6 +1,4 @@
-title{
-    color:palevioletred;
-}
+
 h1{
     color:black;
 }
@@ -12,4 +10,7 @@ p.segundo{
 }
 p.tercero{
     color: blueviolet;
+}
+p{
+    color:aqua;
 }
